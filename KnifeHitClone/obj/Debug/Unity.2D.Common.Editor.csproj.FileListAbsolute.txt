@@ -1,0 +1,2 @@
+D:\Games\PROJECTS\KnifeHitClone\obj\Debug\Unity.2D.Common.Editor.csproj.CoreCompileInputs.cache
+D:\Games\PROJECTS\KnifeHitClone\obj\Debug\Unity.2D.Common.Editor.csprojAssemblyReference.cache

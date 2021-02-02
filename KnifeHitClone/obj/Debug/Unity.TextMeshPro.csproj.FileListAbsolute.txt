@@ -1,0 +1,2 @@
+D:\Games\PROJECTS\KnifeHitClone\obj\Debug\Unity.TextMeshPro.csprojAssemblyReference.cache
+D:\Games\PROJECTS\KnifeHitClone\obj\Debug\Unity.TextMeshPro.csproj.CoreCompileInputs.cache

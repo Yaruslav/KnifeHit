@@ -1,0 +1,4 @@
+#Tue Feb 02 20:57:51 IRKT 2021
+base.0=D\:\\Games\\PROJECTS\\KnifeHitClone\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

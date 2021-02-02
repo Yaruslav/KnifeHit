@@ -1,0 +1,2 @@
+D:\Games\PROJECTS\KnifeHitClone\obj\Debug\Unity.InternalAPIEditorBridge.001.csprojAssemblyReference.cache
+D:\Games\PROJECTS\KnifeHitClone\obj\Debug\Unity.InternalAPIEditorBridge.001.csproj.CoreCompileInputs.cache
